@@ -6,4 +6,3 @@ seaborn
 pillow
 tensorflow
 scikit-learn
-plotly
